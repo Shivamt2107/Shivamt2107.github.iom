@@ -2,6 +2,7 @@ import React from "react";
 import styles from "./About.module.css";
 import Skills from "./Skills";
 
+
 const About = () => {
   return (
     <section className={styles.about_section} id="about">
